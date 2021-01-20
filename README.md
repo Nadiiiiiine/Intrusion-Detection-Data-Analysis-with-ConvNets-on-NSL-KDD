@@ -1,6 +1,6 @@
 # Deep Learning based Intrusion Detection on NSL-KDD and Data Analysis 
 
-  [![avaible on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/TP_NSL_KDD_DeepLearning.ipynb)
+  [![avaible on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/https://github.com/Nadiiiiiine/Intrusion-Detection-Data-Analysis-with-ConvNets-on-NSL-KDD/blob/main/TP_NSL_KDD_DeepLearning.ipynb)
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%237159c1">
@@ -43,7 +43,7 @@ the second notebook contain data analysis and vizualisation to help with the pre
 Run inside jupyter notebook after installing required libraries. 
 
 or press the 
-  [![avaible on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/TP_NSL_KDD_DeepLearning.ipynb)  button and run the project using google collab with no installation required ! 
+  [![avaible on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/https://github.com/Nadiiiiiine/Intrusion-Detection-Data-Analysis-with-ConvNets-on-NSL-KDD/blob/main/TP_NSL_KDD_DeepLearning.ipynb)  button and run the project using google collab with no installation required ! 
 
 ## Experimental Results
 ### accuracy , confusion matrix , ROC CURVE metrics were used in the predection phase in ordre to make better inference and generalization capability.
