@@ -50,7 +50,7 @@ or press the
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
-- Copyright 2020 © layeb soundouse nadine.
+- Copyright 2021 © Layeb Soundouse Nadine & Zoghbi Abderraouf.
 
 
 
