@@ -28,7 +28,7 @@ The model is benchmarked with the NSL-KDD dataset (improved version of the KDD C
 the second notebook contain data analysis and vizualisation to help with the predection.
 
 ## Tools
-
+    Google Colab 
     Anaconda (Python 3.6)
     Jupyter Notebook
     
